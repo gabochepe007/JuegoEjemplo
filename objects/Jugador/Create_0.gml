@@ -1,0 +1,1 @@
+frecuenciaDisparo = 0;
